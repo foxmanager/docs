@@ -1,4 +1,4 @@
-# Vue compatibility
+# Vue compatibility.
 
 Docsify allows Vue content to be added directly to your markdown pages. This can greatly simplify working with data and adding reactivity to your site.
 
