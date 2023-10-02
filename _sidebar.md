@@ -26,3 +26,4 @@
 
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)
+- [Escrever artigo](como-escrever-um-artigo)
