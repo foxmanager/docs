@@ -1,4 +1,4 @@
-- Getting started
+- Primeiros passos
 
   - [Quick start](quickstart.md)
   - [Writing more pages](more-pages.md)
